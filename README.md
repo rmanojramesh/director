@@ -1,6 +1,4 @@
-# Compass
-
-A simple HTML5 [compass web app](https://lamplightdev.github.io/compass) that's offline capable.
+# director
 
 Makes use of the HTML5 Location, Device Orientation, Screen Orientation, Screen Lock and Fullscreen APIs.
 
